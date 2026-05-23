@@ -52,7 +52,7 @@ To ensure the firmware compiles and runs correctly, configure your board under t
 * USB CDC On Boot: Enabled
 * USB Mode: Hardware CDC and JTAG
 * Flash Size: 4MB
-* Partition Scheme: Huge APP (3MB No OTA) ⚠️ *Important for accommodating large ML firmware.*
+* Partition Scheme: Huge APP (3MB No OTA) *Important for accommodating large ML firmware.*
 
 5. Execution Flow (OLED Display Stages)
 Once flashed and powered, the OLED will guide you through the following operational stages:
